@@ -44,6 +44,7 @@ CALCULATE(
     [Total_Billed],
     USERELATIONSHIP(Bridge_Cases_Practice[cases_id], Dim_Cases[case_id])
 )
+```
 #### 2. Business Logic Efficiency
 Using the `DIVIDE` function to safely handle calculations and measure real-world collection performance.
 
@@ -55,7 +56,7 @@ DIVIDE(
     0
 )
 ---
-
+```
 ## 📖 Methodology & Glossary
 
 ### 💰 Financial KPIs
