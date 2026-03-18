@@ -25,7 +25,15 @@ This page analyzes capacity and patient visit dynamics to optimize clinic workfl
 **Key Insight:** Discovered a recurring operational bottleneck on **Wednesday mornings (7 AM - 12 PM)**, causing administrative strain and faster visit times.
 
 ---
+### 3. Financial Overview & Revenue Cycle Performance
+This dashboard serves as the strategic command center, tracking $60.38M in total billing across the entire network. It highlights the critical relationship between gross billing and net collections.
 
+![Financial Overview Screenshot](Financial Overview.png)
+
+**Key Insights & Business Value:**
+* **Physician Efficiency Benchmarking:** Beyond simple billing totals, I implemented a ranking system to identify "Efficiency Leaders." For instance, **Dr. Mohammad Dorri** achieves a top-tier **39% Collection Rate**, significantly outperforming the specialty average.
+* **Monthly Financial Trends:** Analyzed seasonal billing fluctuations, identifying stable revenue periods versus months with higher balance accumulation, allowing for better cash flow forecasting.
+* **Adjustment Transparency:** By visualizing the $14.58M in adjustments, the dashboard highlights the impact of insurance contractual write-offs on the bottom line.
 ## 🛠️ Tech Stack & Technical Implementation
 
 * **Tools:** Power BI Desktop, DAX, SQL.
