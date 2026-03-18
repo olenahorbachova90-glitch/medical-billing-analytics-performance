@@ -28,7 +28,7 @@ This page analyzes capacity and patient visit dynamics to optimize clinic workfl
 ### 3. Financial Overview & Revenue Cycle Performance
 This dashboard serves as the strategic command center, tracking $60.38M in total billing across the entire network. It highlights the critical relationship between gross billing and net collections.
 
-![Financial Overview Screenshot](Financial Overview.png)
+![Financial Overview Screenshot](financial_overview.png)
 
 **Key Insights & Business Value:**
 * **Physician Efficiency Benchmarking:** Beyond simple billing totals, I implemented a ranking system to identify "Efficiency Leaders." For instance, **Dr. Mohammad Dorri** achieves a top-tier **39% Collection Rate**, significantly outperforming the specialty average.
