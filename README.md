@@ -63,7 +63,7 @@ DIVIDE(
     ([Total_Billed] - [Total Adjustment]), 
     0
 )
----
+
 ```
 ## 📖 Methodology & Glossary
 
