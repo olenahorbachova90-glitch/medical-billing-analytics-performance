@@ -13,14 +13,14 @@ The goal of this project was to analyze the financial and operational health of 
 ### 1. Home Page & Strategic Insights
 This page provides an executive overview of the network's financial portfolio and identifies key revenue risks.
 
-![Home Page Screenshot](Нome.png)
+![Home Page Screenshot](home.png)
 
 **Key Insight:** Identified that the Lien segment, despite high billing volume, has a critically low **6% Collection Rate**, representing a major revenue leak.
 
 ### 2. Operational Flow & "Wednesday Peak" Analysis
 This page analyzes capacity and patient visit dynamics to optimize clinic workflow.
 
-![Operational Analytics Screenshot](Financial Overview.png)
+![Operational Analytics Screenshot](operational.png)
 
 **Key Insight:** Discovered a recurring operational bottleneck on **Wednesday mornings (7 AM - 12 PM)**, causing administrative strain and faster visit times.
 
